@@ -6,7 +6,7 @@ Name: Shailesh Pranav Rajendran
 - UID: 118261997
 - Section: 0201
 
-Github link: 
+Github link: https://github.com/shaileshpranav/ENPM661_Prj3/tree/main/Phase%202
 ```
 
 #  Part1: Visualization in Matplotlib 
